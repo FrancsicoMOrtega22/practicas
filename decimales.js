@@ -1,3 +1,3 @@
-var ourDecimal = 5.7;
+var myDecimal = 5.7- 3.2;
 
-var myDecimal = 0.009;
+console.log(myDecimal)
